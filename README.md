@@ -1,5 +1,7 @@
 UMN's Kaggle Student Group
 ============================================
+UPDATE: Cleaning up repository a bit. 
+
 Public (for now) repository of our groups material.
 
 **What is needed to participate:**
